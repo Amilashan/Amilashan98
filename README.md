@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amilashan98" alt="amilashan98" /></a> </p>
 
-- 🔭 I’m currently working on **My Course (Information and Communication Technology**
+- 🔭 I’m currently working on **My Course (Information and Communication Technology)**
 
 - 🌱 I’m currently learning **Programming**
 
