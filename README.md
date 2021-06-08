@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amilashan Gamage</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilashan98&label=Profile%20views&color=0e75b6&style=flat" alt="amilashan98" /> </p><br>
 
-<img align="right" alt="GIF" src="https://github.com/Amilashan98/Amilashan98/blob/917d4877a3532c89199a4927c9be4aded834d3b9/undraw_developer_activity_bv83.png" width="500" height="320" />
+<img  alt="GIF" src="https://github.com/Amilashan98/Amilashan98/blob/917d4877a3532c89199a4927c9be4aded834d3b9/undraw_developer_activity_bv83.png" width="500" height="320" />
 
 
 
