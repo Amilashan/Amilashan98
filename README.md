@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amilashan Gamage</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amilashan98&label=Profile%20views&color=0e75b6&style=flat" alt="amilashan98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amilashan98&label=Profile%20views&color=0e75b6&style=flat" alt="amilashan98" /> </p><br>
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 
